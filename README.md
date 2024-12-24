@@ -112,14 +112,20 @@ The world of Artificial Intelligence 🤖 has always intrigued me, with its pote
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </p>
 
-
 <h3 align="left">GitHub Stats:</h3>
+
 <div align="center">
- 
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=MianUmais&theme=dark&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
-
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=MianUmais&theme=dark&hide_border=true&short_numbers=true" alt="GitHub Streak" />
+  </a>
 </div>
+
+<br><br>
+
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%" />
+</p>
+
 
 <br><br>
 
