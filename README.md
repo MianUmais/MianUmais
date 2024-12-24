@@ -98,12 +98,14 @@ The world of Artificial Intelligence 🤖 has always intrigued me, with its pote
   <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif" width="100px" height="100px">
 </p>
 
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-top: 20px;">
-  <div style="text-align: center;">
-    <img src="https://github-profile-trophy.vercel.app/?username=MianUmais&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,PullRequest,Reviews">
-    <img src="https://github-profile-trophy.vercel.app/?username=MianUmais&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Organizations,Stars,Followers">
-  </div>
+<div style="display: flex; justify-content: center; gap: 40px; align-items: center; flex-wrap: wrap; margin-top: 20px;">
+  <!-- First Row of Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=MianUmais&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,PullRequest,Reviews" alt="Row 1 Trophies">
+
+  <!-- Second Row of Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=MianUmais&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Organizations,Stars,Followers" alt="Row 2 Trophies">
 </div>
+
 
 <br><br>
 
