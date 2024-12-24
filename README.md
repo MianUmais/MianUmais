@@ -92,10 +92,8 @@ The world of Artificial Intelligence 🤖 has always intrigued me, with its pote
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<p>
-  <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif" width="100px" height="100px">
-</p>
 
+<h3>Trophies:</h3>
 <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 20px; margin-top: 20px;">
   <img src="https://github-profile-trophy.vercel.app/?username=MianUmais&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,PullRequest,Reviews" alt="Row 1 Trophies">
   <img src="https://github-profile-trophy.vercel.app/?username=MianUmais&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Organizations,Stars,Followers" alt="Row 2 Trophies">
