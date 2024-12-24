@@ -3,7 +3,7 @@
 <p align="center">
 The world of Artificial Intelligence 🤖 has always intrigued me, with its potential to revolutionize every aspect of our lives 🌍. From machine learning 🧠 and deep learning 💡 to natural language processing 📝, AI is shaping the future in ways we could never have imagined. I’m passionate about exploring how algorithms and models can learn from data 📊, make predictions 🔮, and even improve themselves over time 🕒. The idea that machines can enhance decision-making, optimize processes 🔧, and automate tasks 📈 excites me. Beyond AI, I also love diving into full-stack development 💻, creating both front-end 🖥️ and back-end systems 🖧 that deliver seamless, dynamic experiences for users. In addition, blockchain technology ⛓️ fascinates me, especially its ability to create decentralized, secure systems that have the potential to disrupt industries like finance, healthcare, and beyond 💸. I enjoy experimenting with cutting-edge tools and frameworks 🛠️, building intelligent systems that solve real-world problems 💼, and constantly learning how to push the boundaries of what’s possible in software engineering, AI, and emerging technologies!</p>
 <p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=Main-Umais&label=Profile%20views&color=0e75b6&style=flat" alt="supun nanayakkara" /> 
+ <img src="https://komarev.com/ghpvc/?username=MianUmais&label=Profile%20views&color=0e75b6&style=flat" alt="supun nanayakkara" /> 
 
 </p>
 
@@ -102,7 +102,7 @@ The world of Artificial Intelligence 🤖 has always intrigued me, with its pote
  </div>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=supuna97&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Organizations,Stars,Followers">
+<img src="https://github-profile-trophy.vercel.app/?username=MianUmais&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Organizations,Stars,Followers">
  </div>
  <br><br>
 
