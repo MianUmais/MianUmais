@@ -94,9 +94,7 @@ The world of Artificial Intelligence 🤖 has always intrigued me, with its pote
 
 <h3 align="center">Trophy:</h3>
 
-<p align="center">
-  <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif" width="100px" height="100px">
-</p>
+
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MianUmais&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,PullRequest,Reviews">
