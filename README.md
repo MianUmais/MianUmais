@@ -117,7 +117,7 @@ The world of Artificial Intelligence 🤖 has always intrigued me, with its pote
 <div align="center">
  
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=MianUmais&theme=midnight-purple)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MianUmais)](https://git.io/streak-stats)
 
 </div>
 
