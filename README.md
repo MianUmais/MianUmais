@@ -94,10 +94,10 @@ The world of Artificial Intelligence 🤖 has always intrigued me, with its pote
 
 
 <h3>Trophies:</h3>
-<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 20px; margin-top: 20px;">
+<div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MianUmais&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,PullRequest,Reviews" alt="Row 1 Trophies">
 </div>
-<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 20px; margin-top: 20px;">
+<div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MianUmais&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Organizations,Stars,Followers" alt="Row 2 Trophies">
 </div>
 
