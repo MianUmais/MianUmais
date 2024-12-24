@@ -101,8 +101,7 @@ The world of Artificial Intelligence 🤖 has always intrigued me, with its pote
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MianUmais&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,PullRequest,Reviews">
-
-
+ <p>   </p>
   <img src="https://github-profile-trophy.vercel.app/?username=MianUmais&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Organizations,Stars,Followers">
 </div>
 
