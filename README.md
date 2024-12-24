@@ -101,8 +101,6 @@ The world of Artificial Intelligence 🤖 has always intrigued me, with its pote
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-top: 20px;">
   <div style="text-align: center;">
     <img src="https://github-profile-trophy.vercel.app/?username=MianUmais&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,PullRequest,Reviews">
-  </div>
-  <div style="text-align: center;">
     <img src="https://github-profile-trophy.vercel.app/?username=MianUmais&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Organizations,Stars,Followers">
   </div>
 </div>
