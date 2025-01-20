@@ -112,9 +112,7 @@ The world of Artificial Intelligence 🤖 has always intrigued me, with its pote
 
 <h3 align="left">GitHub Stats:</h3>
 
-### GitHub Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=MianUmais)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MianUmais" alt="GitHub Streak" /></a>
 
 
 <br><br>
