@@ -113,9 +113,9 @@ The world of Artificial Intelligence 🤖 has always intrigued me, with its pote
 <h3 align="left">GitHub Stats:</h3>
 
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=MianUmais&theme=dark&hide_border=true&short_numbers=true" alt="GitHub Streak" />
-  </a>
+ <a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=MianUmais&theme=dark&hide_border=true" alt="GitHub Streak" />
+</a>
 </div>
 
 <br><br>
