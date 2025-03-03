@@ -51,13 +51,13 @@ Beyond AI, I also love diving into full-stack development 💻, creating both fr
 I enjoy experimenting with cutting-edge tools and frameworks 🛠️, building intelligent systems that solve real-world problems 💼, and constantly learning how to push the boundaries of what's possible!
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
 
 <hr/>
 
 <h2 align="center">🛠️ Languages-Frameworks-Tools 🛠️</h2>
 <br/>
-
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <!-- Tech Stack Section - Fixed to display icons in a single line -->
 <div align="center">
     <h3>🔥 Tech Stack 🔥</h3>
