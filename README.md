@@ -57,21 +57,24 @@ I enjoy experimenting with cutting-edge tools and frameworks 🛠️, building i
 
 <h2 align="center">🛠️ Languages-Frameworks-Tools 🛠️</h2>
 <br/>
+
+<!-- Tech Stack Section - Fixed to display icons in a single line -->
 <div align="center">
     <h3>🔥 Tech Stack 🔥</h3>
-    <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
-    <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-    <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
-    <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-    <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
-    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
-    <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" />
-    <br/>
-    <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
-    <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
-    <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
-    <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
-    <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="65" height="65" />
+    <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="65" height="65" />
+    </div>
 </div>
 
 <br/><br/>
@@ -96,16 +99,39 @@ I enjoy experimenting with cutting-edge tools and frameworks 🛠️, building i
 <br/>
 <hr/>
 
+<!-- GitHub Stats Section - Fixed to display properly -->
+<h2 align="center">⚡ GitHub Stats ⚡</h2>
+<br>
+
 <div align="center">
-  <h2>🏆 My GitHub Trophies 🏆</h2>
-  <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=MianUmais&theme=radical&no-frame=true&no-bg=false&margin-w=4" width="100%" alt="Trophy" />
+    <h3>Mian Umais' GitHub Stats</h3>
+    <table>
+        <tr>
+            <td>
+                <img src="https://img.shields.io/badge/Total%20Stars-0-blueviolet" alt="Total Stars" />
+            </td>
+            <td>
+                <img src="https://img.shields.io/badge/Total%20Commits%20(2025)-45-blue" alt="Total Commits" />
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <img src="https://img.shields.io/badge/Total%20PRs-1-brightgreen" alt="Total PRs" />
+            </td>
+            <td>
+                <img src="https://img.shields.io/badge/Total%20Issues-0-red" alt="Total Issues" />
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2">
+                <img src="https://img.shields.io/badge/Contributed%20to%20(last%20year)-1-green" alt="Contributed to" />
+            </td>
+        </tr>
+    </table>
 </div>
 
-<hr/>
+<br/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MianUmais&theme=tokyonight&hide_border=true" width="49%" alt="streak stats"/>
   <img src="https://github-readme-stats.vercel.app/api?username=MianUmais&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="49%" alt="stats"/>
@@ -115,6 +141,14 @@ I enjoy experimenting with cutting-edge tools and frameworks 🛠️, building i
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MianUmais&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" width="60%" alt="languages"/>
 </div>
 <br/>
+
+<hr/>
+
+<div align="center">
+  <h2>🏆 My GitHub Trophies 🏆</h2>
+  <br>
+  <img src="https://github-profile-trophy.vercel.app/?username=MianUmais&theme=radical&no-frame=true&no-bg=false&margin-w=4" width="100%" alt="Trophy" />
+</div>
 
 <hr/>
 
