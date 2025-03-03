@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Muhammad+Umais!;" />
 </h1>
 
-<h3 align="center">🚀 Passionate AI & Blockchain Developer from Pakistan 🇵🇰</h3>
+<h3 align="center">🚀 Passionate AI & Blockchain Developer</h3>
 
 <br/>
 
@@ -79,7 +79,7 @@ I enjoy experimenting with cutting-edge tools and frameworks 🛠️, building i
 
 <br/><br/>
 
-<div align="center">
+<div align="left">
     <h3>⚡ Backend Development ⚡</h3>
     <img src="https://skillicons.dev/icons?i=php,laravel,java,nodejs,py,spring,flask,fastapi,express,nestjs&perline=5" />
     <br/><br/>
