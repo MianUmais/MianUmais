@@ -81,8 +81,8 @@ I enjoy experimenting with cutting-edge tools and frameworks 🛠️, building i
 
 
 
-
-
+<br/>
+<hr/><br/>
 <br>
 <!-- GitHub Stats Section - Fixed to display properly -->
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
