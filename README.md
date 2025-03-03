@@ -79,23 +79,6 @@ I enjoy experimenting with cutting-edge tools and frameworks 🛠️, building i
 
 <br/><br/>
 
-<div align="left">
-    <h3>⚡ Backend Development ⚡</h3>
-    <img src="https://skillicons.dev/icons?i=php,laravel,java,nodejs,py,spring,flask,fastapi,express,nestjs&perline=5" />
-    <br/><br/>
-    <h3>🌐 Frontend Development 🌐</h3>
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,materialui&perline=7" />
-    <br/><br/>
-    <h3>🛢️ Database Management 🛢️</h3>
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql&perline=5" />
-    <br/><br/>
-    <h3>☁️ Cloud Services ☁️</h3>
-    <img src="https://skillicons.dev/icons?i=azure,aws,gcp,firebase,cloudflare&perline=5" />
-    <br/><br/>
-    <h3>🔧 Development Tools 🔧</h3>
-    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,xd,idea,vscode,postman,linux&perline=5" />
-</div>
-
 <br/>
 <hr/>
 
