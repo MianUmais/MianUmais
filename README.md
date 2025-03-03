@@ -118,7 +118,6 @@ I enjoy experimenting with cutting-edge tools and frameworks 🛠️, building i
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MianUmais&theme=tokyonight&hide_border=true" width="49%" alt="streak stats"/>
   <img src="https://github-readme-stats.vercel.app/api?username=MianUmais&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="49%" alt="stats"/>
 </div>
 
