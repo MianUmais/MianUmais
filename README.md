@@ -77,7 +77,7 @@ I enjoy experimenting with cutting-edge tools and frameworks 🛠️, building i
         <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="65" height="65" />
     </div>
 </div>
-<br/>
+<br/><br/>
 
 
 
