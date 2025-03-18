@@ -120,9 +120,6 @@ I enjoy experimenting with cutting-edge tools and frameworks 🛠️, building i
   <img src="https://github-readme-stats.vercel.app/api?username=MianUmais&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="49%" alt="stats"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MianUmais&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" width="60%" alt="languages"/>
-</div>
 <br/>
 
 <hr/>
