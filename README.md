@@ -19,7 +19,7 @@
  </div>
  
 <div align="center"> 
-  <a href="https://discord.com/users/YOUR_DISCORD_ID" target="_blank">
+  <a href="https://discord.com/users/tittu.mama" target="_blank">
       <img src="https://img.shields.io/badge/Discord-333333?style=for-the-badge&logo=discord&logoColor=blue" />
   </a>
   <a href="https://linkedin.com/in/mian-umais-13559524a" target="_blank">
